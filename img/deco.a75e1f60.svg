@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1375" height="587" viewBox="0 0 1375 587">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_18" data-name="Rectangle 18" width="1375" height="347" transform="translate(455 600)" fill="#520099"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_18-2" data-name="Rectangle 18" width="1375" height="479" transform="translate(424 468)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1814" data-name="Group 1814" transform="translate(-176 -191)">
+    <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(-279 -409)" clip-path="url(#clip-path)">
+      <path id="hexa-green-deco" d="M347.627,0,0,605.227l347.627,605.221h695.254l347.627-605.221L1042.88,0Z" transform="translate(-150.568 1990.03) rotate(-90)" fill="#520099"/>
+      <path id="hexa-green-deco-2" data-name="hexa-green-deco" d="M386.387,0,0,729.738l386.387,729.731h772.775L1545.55,729.738,1159.16,0Z" transform="translate(1623.948 2554.985) rotate(-135)" fill="#520099"/>
+    </g>
+    <g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(-248 -169)" clip-path="url(#clip-path-2)">
+      <rect id="Rectangle_21" data-name="Rectangle 21" width="1375" height="243" transform="translate(424 704)" fill="#520099"/>
+      <path id="hexa-green-deco-3" data-name="hexa-green-deco" d="M364.626,0,0,634.823l364.626,634.817h729.252L1458.5,634.823,1093.877,0Z" transform="translate(-210.759 2041.03) rotate(-90)" fill="#0d0735"/>
+      <path id="hexa-green-deco-4" data-name="hexa-green-deco" d="M386.387,0,0,729.738l386.387,729.731h772.775L1545.55,729.738,1159.16,0Z" transform="translate(1623.948 2554.985) rotate(-135)" fill="#0d0735"/>
+    </g>
+  </g>
+</svg>

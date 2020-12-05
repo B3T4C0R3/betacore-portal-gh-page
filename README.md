@@ -1,1 +1,0 @@
-# betacore-portal-gh-page
